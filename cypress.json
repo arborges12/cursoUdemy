@@ -1,0 +1,15 @@
+{
+    "baseUrl": "http://barrigareact.wcaquino.me",
+    "pageLoadTimeout": 90000,
+    "chromeWebSecurity": false,
+    "responseTimeout": 5000,
+    "viewportWidth": 1800,
+    "viewportHeight": 1500,
+    "force": true,
+    "video": true,
+    "screenshotsFolder": "cypress/screenshots",
+    "videosFolder": "cypress/videos",
+    "screenshotOnRunFailure": true,
+    "trashAssetsBeforeRuns": false,
+    "capture": "runner"
+}
